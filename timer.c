@@ -43,9 +43,6 @@
 */
 
 
-
-//  add new ling 
-
 void TIM_GpioInit(void)
 {
     GPIO_SetFunc(PWM_GPIO, 0);//Set PWM3_CH0 as GPIO
