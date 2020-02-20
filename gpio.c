@@ -4,6 +4,7 @@
 #include "test.h"
 #include "ac78xx_gpio.h"
 #include "test.h"
+#include "test.h"
 
 enum
 {
